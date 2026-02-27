@@ -1,0 +1,9 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# No ignorar el contenido de dist si es lo que vas a trackear aquí
+# Pero si el repo es solo para el contenido de dist, podrías dejarlo casi vacío.
